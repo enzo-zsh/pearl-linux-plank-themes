@@ -9,7 +9,7 @@ Copy and paste your themes in `/home/$USERNAME/.themes`
 
 OR
 
-(in root) in `/usr/share/themes`
+(in root) in `/usr/share/plank/themes`
 
 
 Enjoy ;)
