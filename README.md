@@ -5,7 +5,7 @@ Website : https://www.pearllinux.net/
 
 ## How to install
 
-Copy and paste your themes in `/home/$USERNAME/.themes`
+Copy and paste your themes in `. local/share/plank/themes`
 
 OR
 
